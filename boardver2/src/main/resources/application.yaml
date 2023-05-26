@@ -26,4 +26,4 @@ springdoc:
 
 
 file:
-  dir: D:/download/
+  dir: /download/
