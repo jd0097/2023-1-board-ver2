@@ -1,4 +1,4 @@
-package com.green.boardver2.boardbsh;
+package com.green.boardver2.bsh;
 
 import org.springframework.web.bind.annotation.RestController;
 
